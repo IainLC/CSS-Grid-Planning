@@ -1,7 +1,8 @@
 Name: CSS Grid Planning
+
 App link: local only
 
-Lesson material for  teaching the fundementals of CSS grids 
+Lesson material I use for teaching the fundementals of CSS grids 
 This is lesson 2/2 teaching CSS layouts
 Find the first lesson here: https://github.com/IainLC/FlexBox-Planning
 
